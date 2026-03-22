@@ -1,0 +1,21 @@
+user_id,item_id,interaction,timestamp,category,description
+1,101,4.5,2023-01-01 10:00:00,Electronics,High quality product
+1,102,3.0,2023-01-02 12:00:00,Books,Best seller item
+2,101,5.0,2023-01-03 09:30:00,Electronics,Premium product
+2,103,2.5,2023-01-04 14:20:00,Clothing,Budget friendly
+3,104,4.0,2023-01-05 16:00:00,Home,Trending now
+3,105,3.5,2023-01-06 11:45:00,Sports,Limited edition
+4,101,4.2,2023-01-07 13:10:00,Electronics,High quality product
+4,106,2.8,2023-01-08 15:30:00,Beauty,Budget friendly
+5,107,5.0,2023-01-09 17:00:00,Books,Best seller item
+5,108,3.2,2023-01-10 18:40:00,Clothing,Trending now
+6,109,4.8,2023-01-11 19:20:00,Electronics,Premium product
+6,110,2.9,2023-01-12 20:10:00,Home,Budget friendly
+7,111,3.7,2023-01-13 10:50:00,Sports,Limited edition
+7,112,4.3,2023-01-14 11:30:00,Beauty,High quality product
+8,113,5.0,2023-01-15 12:15:00,Books,Best seller item
+8,114,3.1,2023-01-16 13:25:00,Clothing,Trending now
+9,115,4.6,2023-01-17 14:35:00,Electronics,Premium product
+9,116,2.7,2023-01-18 15:45:00,Home,Budget friendly
+10,117,3.9,2023-01-19 16:55:00,Sports,Limited edition
+10,118,4.4,2023-01-20 17:05:00,Beauty,High quality product
