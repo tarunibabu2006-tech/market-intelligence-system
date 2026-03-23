@@ -21,3 +21,6 @@ This project demonstrates the use of machine learning techniques to solve real-w
 ## 📸 Output
 (Add your output screenshot here)# market-intelligence-system
 This project is designed to analyze market data and generate meaningful insights for business decision-making. It uses data analysis and visualization techniques to identify trends, patterns, and opportunities in the market. The system helps businesses understand customer behavior and improve strategic planning.
+## 📸 Output
+
+![Output](output.png)
